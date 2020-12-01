@@ -13,7 +13,3 @@ alias nodesass='npm install --save-dev node-sass sass-loader'
 alias nrd='npm run doc'
 alias gfu='git fetch upstream'
 alias gl='git log'
-~                                                                                                      
-~                                                                                                      
-~                                                                                                      
-~                      
